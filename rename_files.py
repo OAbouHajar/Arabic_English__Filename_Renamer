@@ -115,5 +115,6 @@ if __name__ == "__main__":
 
 #     comment
     print("hello")
+    print("hello again")
     user_select = get_user_selection()
     en_ar_replacement_process(user_select)
